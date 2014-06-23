@@ -1,0 +1,21 @@
+Taken from: http://userscripts.org:8080/scripts/show/480668
+
+Credit goes to the authors and not me - I am simply hosting this publicly on github as part of this collection.
+
+=====================
+
+Script Summary: This is a tool which will let you filter Craigslist Forum posts.
+
+Version: 2014.04.23
+
+Run this script on Craigslist forums to filter, highlight, or remove posts from specified forum users.
+
+In the User List that will be available in Craigslist Forums, enter a list of users you wish to filter. The user name (handle) should be followed by a |, then the specific filter type.
+
+Examples: 
+handle1|crush 
+handle2|block 
+handle3|ignore 
+handle4|'color' 
+handle5|female 
+handle6|male
